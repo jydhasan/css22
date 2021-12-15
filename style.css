@@ -1,0 +1,19 @@
+* {
+    margin: auto;
+}
+
+.content {
+    background-color: greenyellow;
+}
+
+.flex {
+    text-transform: lowercase;
+}
+
+.flex h2 {
+    text-transform: uppercase;
+}
+
+.flex h3 {
+    text-transform: capitalize;
+}
